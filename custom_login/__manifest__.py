@@ -8,7 +8,10 @@
     "license": "LGPL-3",
     "category": "",
     "depends": ["web"],
-    "data": ["views/login.xml"],
+    "data": [
+        "views/login.xml",
+        "wiews/brand_promotion.xml"
+    ],
     "demo": [],
     "auto_install": False,
     "application": False,
