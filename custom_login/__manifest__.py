@@ -10,7 +10,7 @@
     "depends": ["web"],
     "data": [
         "views/login.xml",
-        "wiews/brand_promotion.xml"
+        "views/brand_pomotion.xml"
     ],
     "demo": [],
     "auto_install": False,
